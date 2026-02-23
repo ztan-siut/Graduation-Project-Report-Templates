@@ -83,7 +83,7 @@ for use in a local installation.
 
 # Content Requirements
 
-Your project report must contain the following sections:
+Your project report must be 40--50 pages long (or about 8,000--12,000 words) and contain the following sections:
 
 | **    Element   **                    | **    Description   **                                                                                                                                                                                                                                                                 |
 |---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
